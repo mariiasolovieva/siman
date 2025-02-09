@@ -164,4 +164,3 @@ def H2(T, c2ev = 0, P = 1):
         G = header.kJ_mol2eV * G
         # print(G, dH - T*S )
     return G, dH, S 
-
